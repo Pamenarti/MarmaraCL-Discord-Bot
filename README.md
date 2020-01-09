@@ -74,5 +74,5 @@ walletnotify=/path/to/your/bot/folder/transaction.sh %s
 3. Enalbe staking options on the config file  
 4. Check if transactionns are coming in to database
 
-contact :  
+### contact :  
 B. Gültekin Çetiner http://twitter.com/drcetiner & ~Paro, (c) 2019 
