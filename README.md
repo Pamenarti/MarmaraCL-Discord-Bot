@@ -1,3 +1,4 @@
+![GitHub Logo](https://raw.githubusercontent.com/MCLCoreTeam/Blockchain-Id-Storage/marmara-v1-1-opret-v2/marmara_coin_logo.png)
 # Cryptocurrency-crypto-bot is an open-source Node.js wallet bot for Discord.
 
 ### Preview pictures
